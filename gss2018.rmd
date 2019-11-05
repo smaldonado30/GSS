@@ -199,5 +199,5 @@ The p-value for the chisq test is 9e-04 < 0.05  this suggest that there is a con
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-Since the p- value for the chisq test is 9e-04 < 0.05 We fail to reject the null hypothesis and conclude that there is enough evidence to support that there is a relation between race and those who favor and oppose capital punishment.
+Since the p- value for the chisq test is 9e-04 < 0.05 We fail to reject the null hypothesis and conclude that there is enough evidence to support that there is a relation between race and those who favor and oppose capital punishment.  
 
